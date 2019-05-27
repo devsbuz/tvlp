@@ -1713,7 +1713,7 @@ p.contact_success_box{
 /* -----  a) Video PopUp ----- */
 
 .video-wrapper{
-	background: url(http://placehold.it/1600x1067) top center no-repeat;
+	/* background: url(http://placehold.it/1600x1067) top center no-repeat; */
 	background-size: cover;
 	background-attachment: fixed;
 	width: 100%;
